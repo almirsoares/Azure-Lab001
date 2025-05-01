@@ -53,3 +53,7 @@ Essa mudança permite:
 - **Python 3.9+**
 
 ---
+![image](https://github.com/user-attachments/assets/2d30c16f-0e92-407c-899c-e7e01d2ec5c9)
+
+![image](https://github.com/user-attachments/assets/b8186225-e753-47ea-9614-826a95e1378f)
+
